@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <color name="transparent">#00000000</color>
+
+    <integer name="circular_default_sweepAnimationDuration">500</integer>
+    <integer name="circular_default_angleAnimationDurationMillis">1200</integer>
+    <integer name="circular_default_miniSweepAngle">30</integer>
+
+    <dimen name="circular_default_border_width">4dp</dimen>
+
+    <array name="circular_default_color_sequence">
+        <item>@color/circular_red</item>
+        <item>@color/orange</item>
+        <item>@color/circular_red</item>
+        <item>@color/orange</item>
+    </array>
+    <array name="circular_green_color_sequence">
+        <item>@color/green</item>
+        <item>@color/green</item>
+    </array>
+
+</resources>

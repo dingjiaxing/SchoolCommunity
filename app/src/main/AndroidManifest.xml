@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.edu.shu.scommunity">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <application
+        android:name=".FApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/lebalogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.Holo.Light.NoActionBar">
+        <activity android:name=".activity.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/LauncherTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+         <activity android:name=".activity.LoginActivity"
+            android:screenOrientation="portrait"/>
+        -->
+
+        <activity android:name=".activity.MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.LoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.MessageDetailActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.InformDetailActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.ActivityDetailActivity"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

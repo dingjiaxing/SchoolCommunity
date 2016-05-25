@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:orientation="vertical" >
+
+    <include layout="@layout/head_title_normal" />
+
+    <android_hddl_framework.view.RoundImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/lebalogo" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edit_transparent_white"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/edit_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/back"
+            android:hint="学号"
+            android:text="12122198"
+            android:inputType="number"
+            android:padding="5dp"
+            android:textColor="@color/text_black"
+            android:textColorHint="@color/text_black"
+            android:textSize="@dimen/text_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_transparent_white"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/tv_forgetpwd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="5dp"
+            android:text="获取验证码"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/small_text"
+            android:visibility="gone"/>
+        <EditText
+            android:id="@+id/edit_userpwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/tv_forgetpwd"
+            android:background="@color/back"
+            android:hint="密码"
+            android:text="zhang1214"
+            android:inputType="textPassword"
+            android:maxLength="15"
+            android:padding="5dp"
+            android:textColor="@color/text_black"
+            android:textColorHint="@color/text_black"
+            android:textSize="@dimen/text_size" />
+
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_submit_blue"
+        android:text="登陆"
+        android:textColor="@color/back" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="5dp" >
+
+        <CheckBox
+            android:id="@+id/ck_agree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="我同意"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/order_text"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_protocol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/ck_agree"
+            android:text="&lt;&lt;乐吧洗车服务协议>>"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/order_text"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_registered"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="5dp"
+            android:text="立即注册"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/text_size"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+<!--     <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="100dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/login_qq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/connect_logo_4" />
+
+        <ImageButton
+            android:id="@+id/login_weibo"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:background="@drawable/sinalogin" />
+    </LinearLayout> -->
+
+</LinearLayout>

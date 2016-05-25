@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ios7_switch_off.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\ios7_switch_off.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ll_loading_outside.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\ll_loading_outside.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ios7_switch_on.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\ios7_switch_on.png"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    }
+]

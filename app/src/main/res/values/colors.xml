@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#0EC530</color>
+    <color name="back">#E0EFE5</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="proposal_tab_background_unselected">#313D4D</color>
+    <color name="proposal_tab_tell_line_selected">#299BE4</color>
+    <color name="proposal_tab_background_selected">#272E38</color>
+    <color name="circular_red">#F90101</color>
+    <color name="circular_blue">#0266C8</color>
+    <color name="circular_yellow">#F2B50F</color>
+    <color name="circular_green">#00933B</color>
+    <color name="orange">#FF6633</color>
+    <color name="green">#0EC530</color>
+    <color name="gray_light">#999999</color>
+    <color name="gray_lightlight">#dedede</color>
+    <color name="black">#000000</color>
+    <color name="text_black">#353333</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#E6E6E6</color>
+    <color name="text_light_black">#686868</color>
+    <color name="gray_dark">#6E6E6E</color>
+    <color name="line_color">#D2D2D2</color>
+    <color name="text_red">#FF7F6D</color>
+    <color name="blood_red">#FB3030</color>
+    <color name="background">#E6E6E6</color>
+    <color name="pop_gray">#55555555</color>
+    <color name="moditify_red">#FF705E</color>
+    <color name="time_gray">#C6C6C6</color>
+    <color name="carwash">#40BDB4</color>
+    <color name="vehicledate">#F59038</color>
+    <color name="more">#A995DD</color>
+
+    <color name="order_detail_word">#7c7a7b</color>
+    <color name="order_detail_line">#bababa</color>
+    <color name="order_detail_status">#ff5a00</color>
+    <color name="money_money">#B21D38</color>
+    <color name="money_num">#D43A3A</color>
+
+</resources>

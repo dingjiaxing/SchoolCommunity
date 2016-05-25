@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/white" >
+     <include
+		 android:id="@+id/line_head"
+		 layout="@layout/head_title_normal" />
+	<cn.edu.shu.scommunity.view.XListView
+		android:id="@+id/listview"
+		android:layout_below="@+id/line_head"
+		android:layout_above="@+id/line_bottom"
+		android:dividerHeight="0dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+	</cn.edu.shu.scommunity.view.XListView>
+	<RelativeLayout
+		android:id="@+id/line_bottom"
+		android:layout_width="match_parent"
+		android:layout_height="50dp"
+		android:background="@color/gray_lightlight"
+		android:layout_alignParentBottom="true">
+		<EditText
+			android:id="@+id/et"
+			android:layout_toLeftOf="@+id/btn"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_centerVertical="true"
+			android:gravity="center_vertical"/>
+		<Button
+			android:id="@+id/btn"
+			android:layout_width="70dp"
+			android:layout_height="40dp"
+			android:background="@color/blue"
+			android:text="发送"
+			android:layout_centerVertical="true"
+			android:textColor="@color/white"
+			android:layout_alignParentRight="true"/>
+	</RelativeLayout>
+</RelativeLayout>

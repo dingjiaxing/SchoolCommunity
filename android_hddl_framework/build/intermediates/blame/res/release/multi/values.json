@@ -1,0 +1,1557 @@
+[
+    {
+        "outputFile": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 771,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 44,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1531,
+                        "endColumn": 45,
+                        "endOffset": 1572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 47,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 48,
+                        "endOffset": 1622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 49,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1628,
+                        "endColumn": 50,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 49,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__attrs.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 50,
+                        "endOffset": 1726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 62,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 62,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 59,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 59,
+                        "endOffset": 1083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 60,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 60,
+                        "endOffset": 1710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 66,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2401,
+                        "endColumn": 66,
+                        "endOffset": 2463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 62,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2745,
+                        "endColumn": 62,
+                        "endOffset": 2803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 47,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 47,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 48,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 48,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 46,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 46,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1052,
+                    "endColumn": 49,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 49,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 71,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 71,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1174,
+                    "endColumn": 71,
+                    "endOffset": 1241
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 71,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1246,
+                    "endColumn": 73,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1089,
+                        "endColumn": 73,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 73,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 73,
+                        "endOffset": 1571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 75,
+                    "endOffset": 1465
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1577,
+                        "endColumn": 75,
+                        "endOffset": 1648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1470,
+                    "endColumn": 72,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1786,
+                        "endColumn": 72,
+                        "endOffset": 1854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 74,
+                    "endOffset": 1613
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2325,
+                        "endColumn": 74,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1618,
+                    "endColumn": 70,
+                    "endOffset": 1684
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2469,
+                        "endColumn": 70,
+                        "endOffset": 2535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1689,
+                    "endColumn": 78,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2958,
+                        "endColumn": 78,
+                        "endOffset": 3032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 39,
+                    "endOffset": 1803
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 3,
+                        "startOffset": 543,
+                        "endColumn": 38,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1808,
+                    "endColumn": 40,
+                    "endOffset": 1844
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 3,
+                        "startOffset": 502,
+                        "endColumn": 39,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1849,
+                    "endColumn": 66,
+                    "endOffset": 1911
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 66,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1916,
+                    "endColumn": 68,
+                    "endOffset": 1980
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 68,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1985,
+                    "endColumn": 65,
+                    "endOffset": 2046
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 65,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2051,
+                    "endColumn": 47,
+                    "endOffset": 2094
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 47,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2099,
+                    "endColumn": 61,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 61,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2161,
+                    "endColumn": 62,
+                    "endOffset": 2219
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 62,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2224,
+                    "endColumn": 77,
+                    "endOffset": 2297
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 77,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2302,
+                    "endColumn": 78,
+                    "endOffset": 2376
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1079,
+                        "endColumn": 78,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2381,
+                    "endColumn": 92,
+                    "endOffset": 2469
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 92,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2474,
+                    "endColumn": 92,
+                    "endOffset": 2562
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 92,
+                        "endOffset": 994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2567,
+                    "endColumn": 107,
+                    "endOffset": 2670
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 107,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2675,
+                    "endColumn": 107,
+                    "endOffset": 2778
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 107,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2783,
+                    "endColumn": 39,
+                    "endOffset": 2818
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7076,
+                    "endColumn": 57,
+                    "endOffset": 7129
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7134,
+                    "endColumn": 55,
+                    "endOffset": 7185
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7190,
+                    "endColumn": 59,
+                    "endOffset": 7245
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 59,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7250,
+                    "endColumn": 68,
+                    "endOffset": 7314
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1233,
+                        "endColumn": 68,
+                        "endOffset": 1297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7319,
+                    "endColumn": 61,
+                    "endOffset": 7376
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 61,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7381,
+                    "endColumn": 67,
+                    "endOffset": 7444
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endColumn": 67,
+                        "endOffset": 1227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7449,
+                    "endColumn": 62,
+                    "endOffset": 7507
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1371,
+                        "endColumn": 62,
+                        "endOffset": 1429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7512,
+                    "endColumn": 64,
+                    "endOffset": 7572
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 64,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7577,
+                    "endColumn": 65,
+                    "endOffset": 7638
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 65,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7643,
+                    "endColumn": 66,
+                    "endOffset": 7705
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1718,
+                        "endColumn": 66,
+                        "endOffset": 1780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7710,
+                    "endColumn": 77,
+                    "endOffset": 7783
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2014,
+                        "endColumn": 77,
+                        "endOffset": 2087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7788,
+                    "endColumn": 89,
+                    "endOffset": 7873
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 89,
+                        "endOffset": 2178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7878,
+                    "endColumn": 72,
+                    "endOffset": 7946
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1860,
+                        "endColumn": 72,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7951,
+                    "endColumn": 68,
+                    "endOffset": 8015
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2184,
+                        "endColumn": 68,
+                        "endOffset": 2248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8020,
+                    "endColumn": 64,
+                    "endOffset": 8080
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2541,
+                        "endColumn": 64,
+                        "endOffset": 2601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8085,
+                    "endColumn": 67,
+                    "endOffset": 8148
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2607,
+                        "endColumn": 67,
+                        "endOffset": 2670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8153,
+                    "endColumn": 65,
+                    "endOffset": 8214
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2676,
+                        "endColumn": 65,
+                        "endOffset": 2737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8219,
+                    "endColumn": 80,
+                    "endOffset": 8295
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 80,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8300,
+                    "endColumn": 64,
+                    "endOffset": 8360
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 64,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8365,
+                    "endColumn": 73,
+                    "endOffset": 8434
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 73,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8439,
+                    "endColumn": 68,
+                    "endOffset": 8503
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 68,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8508,
+                    "endColumn": 78,
+                    "endOffset": 8582
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 78,
+                        "endOffset": 2008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8587,
+                    "endColumn": 69,
+                    "endOffset": 8652
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2254,
+                        "endColumn": 69,
+                        "endOffset": 2319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8657,
+                    "endColumn": 72,
+                    "endOffset": 8725
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2809,
+                        "endColumn": 72,
+                        "endOffset": 2877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8730,
+                    "endColumn": 73,
+                    "endOffset": 8799
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__defaults.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2883,
+                        "endColumn": 73,
+                        "endOffset": 2952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8804,
+                    "endColumn": 52,
+                    "endOffset": 8852
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 52,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8857,
+                    "endColumn": 59,
+                    "endOffset": 8912
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 59,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8917,
+                    "endColumn": 52,
+                    "endOffset": 8965
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 52,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8970,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 9129
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1196,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9134,
+                    "endLine": 93,
+                    "endColumn": 12,
+                    "endOffset": 9306
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1365,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9311,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 9600
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9605,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 9760
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 528,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9765,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 9960
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 9965,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 10213
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10218,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 10470
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2353,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10475,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 10509
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10514,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 10699
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__styles.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1808,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 1996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 10704,
+                    "endLine": 135,
+                    "endColumn": 12,
+                    "endOffset": 11301
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\vpi__styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 987,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 11306,
+                    "endLine": 143,
+                    "endColumn": 12,
+                    "endOffset": 11794
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 11799,
+                    "endLine": 149,
+                    "endColumn": 12,
+                    "endOffset": 12206
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1547,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 1959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 12211,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 12583
+                },
+                "from": {
+                    "file": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1967,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2345
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\release\\layout\\main_tab.xml",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\layout\\main_tab.xml"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\release\\layout\\sort_item.xml",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\layout\\sort_item.xml"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\release\\layout\\dialog_layout.xml",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\release\\layout\\group_item_view.xml",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\layout\\group_item_view.xml"
+    },
+    {
+        "merged": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\build\\intermediates\\res\\merged\\release\\layout\\playshare_dialog.xml",
+        "source": "D:\\project\\android\\SchoolCommunity2\\android_hddl_framework\\src\\main\\res\\layout\\playshare_dialog.xml"
+    }
+]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProposalTabView">
+        <attr name="tab_title_color_unselected" format="color|reference" />
+        <attr name="tab_title_color_selected" format="color|reference" />
+        <attr name="tab_ico_unselected" format="reference" />
+        <attr name="tab_ico_selected" format="reference" />
+        <attr name="tab_background_unselected" format="color|reference" />
+        <attr name="tab_background_selected" format="color|reference" />
+        <attr name="tab_tell_line_color_unselected" format="color|reference" />
+        <attr name="tab_tell_line_color_selected" format="color|reference" />
+        <attr name="tab_cut_line_color" format="color|reference" />
+        <attr name="tab_cut_line_width" format="dimension" />
+        <attr name="tab_tell_line_height" format="dimension" />
+        <attr name="tab_title" format="reference|string"></attr>
+        <attr name="tab_title_text_size" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius" format="dimension"></attr>
+        <attr name="type">
+            <enum name="circle" value="0" />
+            <enum name="round" value="1" />
+        </attr>
+    </declare-styleable>
+	
+    
+    
+    <declare-styleable name="CircularProgressView">
+        <attr name="borderWidth" format="dimension" />
+        <attr name="colorSequence" format="reference" />
+        <attr name="sweepAnimationDurationMillis" format="integer" />
+        <attr name="angleAnimationDurationMillis" format="integer" />
+        <attr name="minSweepAngle" format="integer" />
+    </declare-styleable>
+    
+      <declare-styleable name="PullToZoomScrollView">
+        <attr name="scrollHeadView" format="reference" />
+        <attr name="scrollContentView" format="reference" />
+        <attr name="scrollZoomView" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="PullToZoomListView">
+        <attr name="listHeadView" format="reference" />
+        <attr name="isHeadParallax" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="PullToZoomView">
+        <attr name="headerView" format="reference" />
+        <attr name="contentView" format="reference" />
+        <attr name="zoomView" format="reference" />
+        <attr name="isHeaderParallax" format="boolean" />
+    </declare-styleable>
+</resources>
